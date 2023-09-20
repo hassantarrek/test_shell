@@ -6,7 +6,7 @@
  * Return: 0 if no numbers in string
  */
 
-int atoi(char *s)
+int _atoi(char *s)
 {
 	int x = 0, sign = 1, flag = 0, output;
 	unsigned int result = 0;

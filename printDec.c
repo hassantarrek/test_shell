@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_d - function prints a decimal (integer) number (base 10)
+ * printDec - function prints a decimal (integer) number (base 10)
  * @input: input
  * @fd: filedescriptor
  * Return: number of character

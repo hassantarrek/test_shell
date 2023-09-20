@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * read_buf - reads a buffer
+ * readBuf - reads a buffer
  * @info: parameter struct
  * @buf: buffer
  * @i: size

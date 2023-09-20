@@ -2,8 +2,9 @@
 
 /**
  * myExit - exits the shell
+ * Description: somthing
  * @info: Structure containing potential arguments
- * Return; exits with a given exit status
+ * Return: exits with a given exit status
  */
 int myExit(info_h *info)
 {
